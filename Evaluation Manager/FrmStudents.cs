@@ -8,9 +8,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Evaluation_Manager_G08 {
-    public partial class Form1 : Form {
-        public Form1() {
+namespace Evaluation_Manager
+{
+    public partial class FrmStudents : Form
+    {
+        public FrmStudents()
+        {
             InitializeComponent();
         }
     }
